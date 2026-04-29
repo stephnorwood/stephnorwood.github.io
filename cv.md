@@ -3,7 +3,7 @@ title: Curriculum Vitae
 layout: base
 homepage: TRUE
 position: 4
-summary: Replace this with a one- or two-sentence summary of your CV — what does it show about you? This text appears on the homepage card.
+summary: Steph Norwood - Equity-focused educator
 thumbnail: assets/images/bohemianclassroom.jpg
 thumbnail-position: top
 thumbnail-zoom: 1.3
@@ -12,7 +12,7 @@ thumbnail-zoom: 1.3
 # Steph Norwood
 Email: stephnorwood@unm.edu • [LinkedIn](https://www.linkedin.com/in/steph-norwood-9ba6a2368/)
 
-I am an equity-focused educator studying medieval stories across the North Atlantic.
+I am an equity-focused educator studying medieval stories from across the North Atlantic.
 
 ---
 
