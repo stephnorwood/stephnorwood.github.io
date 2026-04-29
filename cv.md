@@ -25,10 +25,10 @@ University of New Mexico — Albuquerque, NM
 **BA in English Literature, summa cum laude** *(2023)*  
 University of Colorado — Boulder, CO  
 
-- Honors Thesis:  
+- **Honors Thesis:**  
 *“The Body as a Site for Socioeconomic Commentary: Cannibalism in Hardcore Horror”*  
 
-- Thesis Committee:  
+- **Thesis Committee:**  
 Benjamin Robertson, Laura Winkiel, Katherine Alexander  
 
 ---
