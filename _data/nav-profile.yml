@@ -1,20 +1,14 @@
 image_url: /assets/images/profile/eduardo-goody-MQ-Rkg64jf4-unsplash.jpg
 alt_text: "Your profile photo"
-name: Your Name
-description: Replace this with a short bio — one or two sentences describing who you are and what you do. This appears under your photo in the sidebar.
+name: Steph Norwood
+description: I am an equity-focused educator studying medieval stories from across the North Atlantic.
 
 links:
-  - title: Personal Website
-    url: https://example.com
+  - title: Departmental Website
+    url: https://english.unm.edu/about-us/people/grad-students/norwood-steph.html
     icon: fas fa-globe
-  - title: GitHub
-    url: https://github.com
-    icon: fab fa-github
-  - title: Twitter / X
-    url: https://twitter.com
-    icon: fab fa-twitter
   - title: Email
-    url: mailto:contact@example.com
+    url: stephnorwood@unm.edu
     icon: fas fa-envelope
 
 settings:
