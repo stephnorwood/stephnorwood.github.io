@@ -9,8 +9,8 @@ thumbnail-position: top
 thumbnail-zoom: 1.3
 ---
 
-# Your Name
-Email: you@university.edu • [Your Website](http://yoursite.com) • [LinkedIn](http://linkedin.com/in/yourprofile)
+# Steph Norwood
+Email: stephnorwood@unm.edu • [Your Website](http://yoursite.com) • [LinkedIn](https://www.linkedin.com/in/steph-norwood-9ba6a2368/)
 
 Replace this paragraph with a brief professional statement if you want one at the top of your CV — or delete it and start directly with your headings below.
 
