@@ -4,64 +4,63 @@ layout: base
 homepage: TRUE
 position: 4
 summary: Replace this with a one- or two-sentence summary of your CV — what does it show about you? This text appears on the homepage card.
-thumbnail: assets/images/Augustine_Lateran.jpg
+thumbnail: assets/images/bohemianclassroom.jpg
 thumbnail-position: top
 thumbnail-zoom: 1.3
 ---
 
 # Steph Norwood
-Email: stephnorwood@unm.edu • [Your Website](http://yoursite.com) • [LinkedIn](https://www.linkedin.com/in/steph-norwood-9ba6a2368/)
+Email: stephnorwood@unm.edu • [LinkedIn](https://www.linkedin.com/in/steph-norwood-9ba6a2368/)
 
-Replace this paragraph with a brief professional statement if you want one at the top of your CV — or delete it and start directly with your headings below.
-
-> **WORK FASTER:** You can use an AI assistant to get your CV here in no time. Paste your existing CV into an AI assistant and ask it to reformat to Markdown following the format of your CV page---and give it the URL of your CV page. It handles the tedious formatting work in seconds.
-
+I am an equity-focused educator studying medieval stories across the North Atlantic.
 
 ---
+
 
 ## Education
 
-### Degree, Field
-*Institution*, Year–Year  
-- Dissertation or thesis title (if relevant)  
-- Advisor: Name  
+**MA in Medieval Studies** *(Expected 2028)*  
+University of New Mexico — Albuquerque, NM  
 
-### Degree, Field
-*Institution*, Year–Year  
+**BA in English Literature, summa cum laude** *(2023)*  
+University of Colorado — Boulder, CO  
 
----
+**Honors Thesis:**  
+*“The Body as a Site for Socioeconomic Commentary: Cannibalism in Hardcore Horror”*  
 
-## Areas of Interest
-- Add your research interests here  
-- One per line works well  
+**Thesis Committee:**  
+Benjamin Robertson, Laura Winkiel, Katherine Alexander  
 
 ---
 
-## Professional Experience
+## Conferences
 
-### Position Title
-*Organization, Location*, Year–Year  
-- What you did  
-- What you built, managed, or contributed  
+**Medieval Association of the Pacific** *(March 2026)*  
+*“Breeches-Aud and Hervör the Shieldmaiden: Crossdressing in the Norse Sagas”*  
 
-### Position Title
-*Organization, Location*, Year–Year  
-- What you did  
+**Texas Medieval Association** *(April 2026)*  
+*“Hervör the Shieldmaiden: Gender and Accountability in The Saga of King Heiðrek the Wise”*  
 
 ---
 
-## Conferences & Presentations
-- *"Presentation Title"* — Conference Name, Location (Year).  
-- *"Presentation Title"* — Conference Name, Location (Year).  
+## Teaching Experience
+
+**Core Writing Instructor** *(2025–Present)*  
+Teaching Assistant, University of New Mexico  
+
+### English Composition 1
+- Instructor of record for two sections  
+- Planned and taught a course focused on college writing  
+- Used a multimodal teaching approach  
+
+### English Composition 2
+- Instructor of record for two sections  
+- Planned and taught a course focused on research writing  
+- Used a multimodal teaching approach  
 
 ---
 
-## Publications
-- Last, First. *"Article Title."* *Journal Name* Vol, no. Issue (Year): pages.  
-- Last, First. *"Chapter Title."* In *Book Title*, ed. Editor Name, Press, Year.  
+## Professional Memberships
 
----
-
-## Awards & Fellowships
-- Award Name, Institution, Year  
-
+- Medieval Academy of America (MAA)  
+- Medieval Association of the Pacific (MAP) 
