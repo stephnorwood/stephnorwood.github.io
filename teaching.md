@@ -16,7 +16,7 @@ Teaching pages work well for a teaching philosophy statement, a list of courses 
 
 ## Teaching Philosophy
 
-Write a paragraph or two about how you approach teaching. What do you believe about how students learn? What are you trying to accomplish in the classroom? You don't need a formal teaching statement here — a direct, honest account of your approach is more compelling than polished boilerplate.
+My teaching seeks to make education equitable by addressing my students individual needs and helping them to improve their writing and understanding of the power of language. It's a power I help them to harnass.
 
 {% include images/figure.html
   class="right"
@@ -25,22 +25,24 @@ Write a paragraph or two about how you approach teaching. What do you believe ab
   image-path="/assets/images/great-lecture.jpg"
 %}
 
-A second paragraph here works well. You can use this space to describe your methods, discuss a particular challenge you've worked through as a teacher, or explain what kinds of learning you prioritize.
+I demystify college writing by teaching my students the patterns present in essays and articles. This enable them to become stronger readers and writers. Stronger readers and writers make stronger citizens and humans.
 
 ---
 
 ## Courses
 
-### Course Name (Course Number)
-*Institution, Semester Year*  
-One sentence describing the course and who it's for.
+### Composition 1 (ENGL 1010)
+*University of New Mexico, Fall 2025*  
+I taught writing, using an approach inspired by the medieval trivium. I taught rhetoric, grammar, and logic while imparting a sense of confidence in my students.
 
-### Course Name (Course Number)
-*Institution, Semester Year*  
-One sentence describing the course and who it's for.
+### Composition 2 (ENGL 1020)
+*University of New Mexico, Spring 2026*  
+I taught research paper writing. This included research skills and the ability to critically engage with texts, synthesizing them in a research paper.
 
 ---
 
-## Student Projects
+## Upcoming Courses
 
-If your courses produce public-facing work — websites, video essays, research projects, archives — link to them here. This is one of the best ways to show what happens in your classroom.
+### Intermediate Composition: Splatterpunk: Social Justice in Graphic Horror (ENGL 2120)
+*University of New Mexico, Fall 2026*
+By examining how splatterpunk authors address social ills, students will learn how writing can be used to attempt social change.

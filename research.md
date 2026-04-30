@@ -10,7 +10,7 @@ thumbnail: assets/images/bodmer244r.jpg
 
 ## Research Interests
 
-I focus on the overlapping cultures present in early medieval England and Scandinavia, particularly analyzing gender, sexuality, and modes of performing identity in oral stories and text.
+I focus on the overlapping cultures present in early medieval England and Scandinavia, particularly analyzing gender, sexuality, and violence in oral stories and text.
 
 ---
 
