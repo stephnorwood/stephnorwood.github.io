@@ -11,7 +11,7 @@ Steph Norwood is a first-year Medieval Studies MA student in the English Departm
 
 ```yaml
 homepage: TRUE
-summary: Steph Norwood - medievalist
+summary: Steph Norwood
 thumbnail: assets/images/your-image.jpg
 position: 1   # controls the order cards appear (lower numbers first)
 ```
