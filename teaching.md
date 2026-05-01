@@ -16,7 +16,7 @@ Teaching pages work well for a teaching philosophy statement, a list of courses 
 
 ## Teaching Philosophy
 
-My teaching seeks to make education equitable by addressing my students individual needs and helping them to improve their writing and understanding of the power of language. It's a power I help them to harnass.
+My teaching seeks to make education equitable by addressing my students' individual needs and helping them to improve their writing and understanding of the power of language. Together we seek to build skills that will help them in college, the workplace, and in their everyday lives.
 
 {% include images/figure.html
   class="right"
